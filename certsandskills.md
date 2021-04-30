@@ -1,17 +1,17 @@
 # Skills and Certifications
 
+## Interpersonal Skills
+1. Communication
+1. Entrepreneurship
+1. Project Management
+1. Team Leadership
+
 ## Coding Languages
 1. Markdown
 1. Python
 1. C++
 1. Bash
 1. Cypher
-
-## Interpersonal Skills
-1. Communication
-1. Entrepreneurship
-1. Project Management
-1. Team Leadership
 
 ## Certifications
 1. Microsoft Office Specialist

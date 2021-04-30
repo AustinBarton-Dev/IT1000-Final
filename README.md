@@ -11,9 +11,9 @@ Below are the navigation links for my site:
 
 Professional | Personal
 ------------ | -------------
-[Skills and Experience](./certsandskills.md) | [Hobbies](./interests.md)
+[Skills and Experience](./certsandskills.md) | [Interests](./interests.md)
 [Academic Performance](./academicperformance.md) | [LinkedIn](https://www.linkedin.com/in/austinkbarton/)
-[Code Examples](./code_sample.md) | [Picture of Me](./personalpicpage.md)
+[Code Examples](./code_blocks.md) | [Picture of Me](./personalpicpage.md)
 [Resume](./resumepage.md) | [Clifton Strength Report](./strengthreportpage.md)
 
 
