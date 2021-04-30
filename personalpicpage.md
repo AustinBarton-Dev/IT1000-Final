@@ -1,2 +1,2 @@
-![Pic](./PersonalPic.JPG)
+![Pic](./personalpic.png)
 [Home Page](./README.md)
