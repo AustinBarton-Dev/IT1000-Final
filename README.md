@@ -1,3 +1,7 @@
+<!---
+Austin Barton
+IT 1000
+-->
 # **IT 1000 - Final**
 
 # <span style="color:blue">Home Page </span>
@@ -11,8 +15,8 @@ Below are the navigation links for my site:
 
 Professional | Personal
 ------------ | -------------
-[Skills and Experience](./certsandskills.md) | [Interests](./interests.md)
-[Academic Performance](./academicperformance.md) | [LinkedIn](https://www.linkedin.com/in/austinkbarton/)
+[Academic Performance](./academicperformance.md) | [Interests](./interests.md)
+[Skills and Experience](./certsandskills.md) | [LinkedIn](https://www.linkedin.com/in/austinkbarton/)
 [Code Examples](./code_blocks.md) | [Picture of Me](./personalpicpage.md)
 [Resume](./resumepage.md) | [Clifton Strength Report](./strengthreportpage.md)
 

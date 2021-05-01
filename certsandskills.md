@@ -1,3 +1,7 @@
+<!---
+Austin Barton
+IT 1000
+-->
 # Skills and Certifications
 
 ## Interpersonal Skills
@@ -23,4 +27,5 @@
 
 
 [Resume](./resumepage.md)
+
 [Home Page](./README.md)

@@ -1,3 +1,7 @@
+<!---
+Austin Barton
+IT 1000
+-->
 ![Pic](./strengths-1.png)
 
 ![Pic](./strengths-2.png)
